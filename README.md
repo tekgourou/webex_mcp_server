@@ -226,12 +226,10 @@ print(f"✅ Found {len(rooms)} spaces")
 
 ```
 webex-mcp-server/
-├── src/
-│   └── webex_mcp_server.py    # Main MCP server
+|── webex_mcp_server.py         # Main MCP server
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # This file
 ├── LICENSE                     # MIT License
-└── .gitignore                  # Git ignore rules
 ```
 
 ### Running in Development
